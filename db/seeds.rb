@@ -7,7 +7,7 @@
 #   Character.create(name: "Luke", movie: movies.first)
 puts "Seeding users..."
     User.create(
-        username: "ajspaghetti"
+        username: "boiled-spaghetti"
     )
 
 puts "Seeding complete! 🌱"
